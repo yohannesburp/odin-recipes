@@ -1,0 +1,1 @@
+Hi, gonna make a nested web page using HTML. The content will be about 3 recipes I've found on the internet. So far, the site will look like a bone without muscles and skin since there is no design applied yet. But come back later to see the finished one. :)
